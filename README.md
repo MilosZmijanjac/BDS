@@ -1,2 +1,2 @@
 # BDS
-Balkan Driving
+Balkan Driving School
